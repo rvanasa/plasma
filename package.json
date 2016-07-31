@@ -1,0 +1,11 @@
+{
+  "name": "plasma",
+  "version": "0.1.0",
+  "description": "Plasma Framework",
+  "main": "index.js",
+  "repository": "rvanasa/plasma",
+  "author": "Ryan Vandersmith <ryanvandersmith@gmail.com>",
+  "dependencies": {
+    "get-parameter-names": "^0.3.0"
+  }
+}
